@@ -1,0 +1,7 @@
+{
+  "name": "front-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alan G\"ou",
+  "license": "MIT"
+}
